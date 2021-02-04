@@ -1,0 +1,13 @@
+/target/
+*.class
+.classpath
+/target/
+*.class
+*.log
+*.log.lck
+/.metadata/
+/.settings/
+*.classpath
+*.project
+/build/
+/WebContent/
